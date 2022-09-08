@@ -1,2 +1,8 @@
-# mtm6201-020-f22-week1
-Week 1 demo for MTM6201 - Web Dev I
+# Week 1 Demo Repository for MTM6201
+
+Welcome to Web Dev II
+
+- GitHub Repositories
+- GitHub Pages
+- GitHub Issues
+- [Markdown](https://www.markdownguide.org/cheat-sheet)
